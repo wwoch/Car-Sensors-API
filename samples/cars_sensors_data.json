@@ -1,0 +1,344 @@
+[
+    {
+      "car_id": "WV2ZZZ7HZ8H055523",
+      "temperature_engine": 90,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.0
+      },
+      "fuel_level": 35
+    },
+    {
+      "car_id": "1HGBH41JXMN109186",
+      "temperature_engine": 92,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 40
+    },
+    {
+      "car_id": "JH4DA9340PS000001",
+      "temperature_engine": 89,
+      "tire_pressure": {
+        "front_left": 2.0,
+        "front_right": 2.0,
+        "rear_left": 1.9,
+        "rear_right": 1.9
+      },
+      "fuel_level": 30
+    },
+    {
+      "car_id": "2T1BURHE4JC000002",
+      "temperature_engine": 91,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 32
+    },
+    {
+      "car_id": "3VW217AU9HM000003",
+      "temperature_engine": 87,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.3,
+        "rear_left": 2.2,
+        "rear_right": 2.2
+      },
+      "fuel_level": 45
+    },
+    {
+      "car_id": "4T1BF1FK9JU000004",
+      "temperature_engine": 93,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.1
+      },
+      "fuel_level": 28
+    },
+    {
+      "car_id": "5NMS2CAD9JH000005",
+      "temperature_engine": 88,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 39
+    },
+    {
+      "car_id": "1FTFW1E53JK000006",
+      "temperature_engine": 94,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.3,
+        "rear_left": 2.2,
+        "rear_right": 2.2
+      },
+      "fuel_level": 27
+    },
+    {
+      "car_id": "WA1C4AFP7J2080007",
+      "temperature_engine": 86,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.0
+      },
+      "fuel_level": 42
+    },
+    {
+      "car_id": "1FMCU0G95JU000008",
+      "temperature_engine": 90,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.1
+      },
+      "fuel_level": 31
+    },
+    {
+      "car_id": "3GNCJKSB7JL000009",
+      "temperature_engine": 91,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 36
+    },
+    {
+      "car_id": "2G1FA1E38B9110001",
+      "temperature_engine": 89,
+      "tire_pressure": {
+        "front_left": 2.0,
+        "front_right": 2.0,
+        "rear_left": 1.9,
+        "rear_right": 1.9
+      },
+      "fuel_level": 29
+    },
+    {
+      "car_id": "1C4RJFAG4JC000010",
+      "temperature_engine": 88,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.0
+      },
+      "fuel_level": 40
+    },
+    {
+      "car_id": "5N1DR2MM7HC000011",
+      "temperature_engine": 90,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 38
+    },
+    {
+      "car_id": "1G1BE5SM1K7100003",
+      "temperature_engine": 91,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 33
+    },
+    {
+      "car_id": "4S4WMAKD4J3400004",
+      "temperature_engine": 87,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.3,
+        "rear_left": 2.2,
+        "rear_right": 2.2
+      },
+      "fuel_level": 44
+    },
+    {
+      "car_id": "3C4NJDAB0JT000012",
+      "temperature_engine": 92,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 37
+    },
+    {
+      "car_id": "5YJ3E1EA2JF000013",
+      "temperature_engine": 94,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.1
+      },
+      "fuel_level": 25
+    },
+    {
+      "car_id": "1FA6P8TH4J5400005",
+      "temperature_engine": 89,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 34
+    },
+    {
+      "car_id": "2FMPK3K96JBC00006",
+      "temperature_engine": 86,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.1
+      },
+      "fuel_level": 41
+    },
+    {
+      "car_id": "4JGBB8JB6LA000007",
+      "temperature_engine": 88,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.3,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 43
+    },
+    {
+      "car_id": "5FNYF6H51JB000008",
+      "temperature_engine": 93,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.3,
+        "rear_left": 2.2,
+        "rear_right": 2.2
+      },
+      "fuel_level": 29
+    },
+    {
+      "car_id": "1FTEX1EP8JK000009",
+      "temperature_engine": 87,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 39
+    },
+    {
+      "car_id": "WA1BNAFY4J1010008",
+      "temperature_engine": 90,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.0
+      },
+      "fuel_level": 34
+    },
+    {
+      "car_id": "1FTEW1EP4JK000010",
+      "temperature_engine": 92,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 28
+    },
+    {
+      "car_id": "2FMPK3K94JBC00007",
+      "temperature_engine": 89,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.1,
+        "rear_left": 2.0,
+        "rear_right": 2.0
+      },
+      "fuel_level": 41
+    },
+    {
+      "car_id": "4JGBB8JB2LA000008",
+      "temperature_engine": 91,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.1
+      },
+      "fuel_level": 32
+    },
+    {
+      "car_id": "5FNYF6H71JB000009",
+      "temperature_engine": 90,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 37
+    },
+    {
+      "car_id": "1FTFW1E56JK000011",
+      "temperature_engine": 94,
+      "tire_pressure": {
+        "front_left": 2.3,
+        "front_right": 2.3,
+        "rear_left": 2.2,
+        "rear_right": 2.2
+      },
+      "fuel_level": 26
+    },
+    {
+      "car_id": "WA1BNAFY7J1020009",
+      "temperature_engine": 88,
+      "tire_pressure": {
+        "front_left": 2.2,
+        "front_right": 2.2,
+        "rear_left": 2.0,
+        "rear_right": 2.1
+      },
+      "fuel_level": 38
+    },
+    {
+      "car_id": "1FTEW1E59JK000012",
+      "temperature_engine": 92,
+      "tire_pressure": {
+        "front_left": 2.1,
+        "front_right": 2.2,
+        "rear_left": 2.1,
+        "rear_right": 2.2
+      },
+      "fuel_level": 29
+    }
+  ]
+  
